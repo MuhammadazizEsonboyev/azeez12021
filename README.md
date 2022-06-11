@@ -18,7 +18,16 @@ Here are some ideas to get you started:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-  <div>
+ 
+
+<img src="https://github-readme-stats.vercel.app/api?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
+
+<h3>Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab</h3>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Mirafzal1307/ReactProject)
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -38,11 +47,5 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" **alt="Nuxt" width="40" height="40"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-
-
-<h3>Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Mirafzal1307/ReactProject)
-
+<br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
