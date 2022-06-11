@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <h3>Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab</h3>
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Mirafzal1307/ReactProject)
  <div>
@@ -47,5 +47,4 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" **alt="Nuxt" width="40" height="40"/>
 </div>
 
-<br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
