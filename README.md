@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <h3>Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab</h3>
 
 
+<img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" alt="">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Mirafzal1307/ReactProject)
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -48,3 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeez12021&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+
+
