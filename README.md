@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 <h3>Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab</h3>
 
+https://www.codewars.com/users/azeez12021/badges/small
+
+
+https://www.codewars.com/users/azeez12021/badges/large
 
 <img src="https://raw.githubusercontent.com/diyorbekrustamjonov/diyorbekrustamjonov/output/github-contribution-grid-snake.svg" alt="">
 
